@@ -8,3 +8,11 @@ function abrirMenu() {
     }
     
 }
+function alteraCor() {
+    const mudaCor = document.querySelector('.cta').addEventListener
+    if (mudaCor) {
+        document.querySelector('body', ).style.backgroundColor = '#1f9dff'
+        document.querySelector('button', 'li',).style.backgroundColor = '#671fff' 
+        document.querySelector('a.btn').style.backgroundColor = '#a718f4' 
+    }
+}
